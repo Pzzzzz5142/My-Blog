@@ -458,7 +458,7 @@ exturl: false
 
 # Google Webmaster tools verification.
 # See: https://www.google.com/webmasters
-google_site_verification:
+google_site_verification: <meta name="google-site-verification" content="hwYcexbBDa2hgVi9vcqc3bLKaFC2od1IyJ12A0jaoJI" />
 
 # Bing Webmaster tools verification.
 # See: https://www.bing.com/webmaster
@@ -702,7 +702,7 @@ firestore:
 # Show Views / Visitors of the website / page with busuanzi.
 # Get more information on http://ibruce.info/2015/04/04/busuanzi
 busuanzi_count:
-  enable: true
+  enable: fale
   total_visitors: true
   total_visitors_icon: user
   total_views: true
@@ -985,3 +985,6 @@ images: images
 # 文章末尾添加“本文结束”标记
 passage_end_tag:
   enabled: true
+
+sitemap:
+  path: sitemap.xml
