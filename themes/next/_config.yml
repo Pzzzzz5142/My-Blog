@@ -458,7 +458,7 @@ exturl: false
 
 # Google Webmaster tools verification.
 # See: https://www.google.com/webmasters
-google_site_verification: <meta name="google-site-verification" content="hwYcexbBDa2hgVi9vcqc3bLKaFC2od1IyJ12A0jaoJI" />
+google_site_verification:
 
 # Bing Webmaster tools verification.
 # See: https://www.bing.com/webmaster
