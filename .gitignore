@@ -7,3 +7,5 @@ public/
 .deploy*/
 deploy.sh
 gen.sh
+/image/*
+image.7z
